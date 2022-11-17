@@ -1,0 +1,5 @@
+local {
+    tags = {
+    environment = "staging"
+  }
+}
